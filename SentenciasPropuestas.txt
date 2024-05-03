@@ -1,0 +1,27 @@
+1. Mostrar todos los ingredientes ordenados por precio gramo de forma descendente.
+2. Mostrar todos los ingredientes que comiencen por A,B o C
+3. Mostrar todos los ingredientes cuyo pais sea NULL.
+4. Mostrar todos los ingredientes ordenados por nombre de aquellos cuyo precio esté entre 10 y 40 
+5. Mostrar todas las recetas, cuyo año de la fecha de creación sea inferior a 2016.
+6. Mostrar todas las recetas, cuyo año de la fecha de creación esté entre 2010 y 2016.
+7. Mostrar todas las recetas, ordenadas por nombre, cuyo año de creación esté entre 2010 y 2016.
+8. Mostrar todas las recetas que sean de un determinado pais, ordenado primero por nombre de pais y luego por nombre de receta.
+9. Determinar para cada pais que cantidad de recetas tenemos.
+10. Calcular de que pais hay más recetas.
+11. Calcular de que pais hay menos recetas.
+12. Calcular la media de recetas por pais.
+13. Mostrar todos los ingredientes de cada receta, ordenando primero por nombre de receta y luego por cantidad.
+14. Mostrar todos los ingredientes de cada receta, ordenando primero por nombre de receta y luego por orden.
+15. Calcular cual es el coste de cada una de las recetas calculandolo por el precio del gramo y la cantidad.
+16. Mirar a ver cuantos ingredientes hay de un pais.
+17. Determinar cual es pais para el cual hay más ingredientes.
+18. Determinar cual es la receta más cara por pais.
+19. Determinar cual es la receta más barata por pais.
+20. Determinar para cada ingrediente, en que receta se ha utilizado, en que cantidad y en que orden.
+
+
+
+
+
+
+Mostrar cual es el precio de una recete sumando el precio y multiplicándolo por la cantidad.
